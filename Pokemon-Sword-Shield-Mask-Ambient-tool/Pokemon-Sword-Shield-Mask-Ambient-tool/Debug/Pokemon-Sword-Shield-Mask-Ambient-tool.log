@@ -1,0 +1,6 @@
+﻿  tool.cpp
+D:\模型提取\图片\tool\tool.cpp(59,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\模型提取\图片\tool\tool.cpp(61,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\模型提取\图片\tool\tool.cpp(75,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\模型提取\图片\tool\tool.cpp(77,23): warning C4018: “<”: 有符号/无符号不匹配
+  Pokemon-Sword-Shield-Mask-Ambient-tool.vcxproj -> C:\Users\j_y_k\source\repos\Pokemon-Sword-Shield-Mask-Ambient-tool\Debug\Pokemon-Sword-Shield-Mask-Ambient-tool.exe
