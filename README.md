@@ -1,13 +1,15 @@
 # Pokemon-Sword-Shield-Mask-Ambient-tool
-Processes *_msk and *_amb textures.
+Processes *_msk and *_amb maps.
 ## Usage
 1. Decompress the .7z file into a new folder.
 2. Rename your original texture to 'in.png' and put it together with the executable.
-3. Type 'm' For *_msk texture or 'a' for *_amb texture.
+3. Type 'm' For *_msk map or 'a' for *_amb map.
 4. hit the enter button.
 5. ???
 6. Profit.
-
+## Known Issue
+Exported map files can‘t be imported into Photoshop.
+Convert them into .png files first or use Paint.net instead.
 ## PS.:Colors for heroine
 Skin tone:
 White #FCDEDA
