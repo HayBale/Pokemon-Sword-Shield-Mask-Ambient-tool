@@ -3,7 +3,7 @@ Processes *_msk and *_amb maps.
 ## Usage
 1. Put the executable together with your map.
 2. Enter the filename in the terminal.
-~~3. Type 'm' For *_msk map or 'a' for *_amb map.~~
+3. ~~Type 'm' For *_msk map or 'a' for *_amb map.~~
 4. hit the enter button.
 5. ???
 6. Profit.
